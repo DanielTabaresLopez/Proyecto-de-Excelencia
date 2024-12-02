@@ -2,8 +2,8 @@
 
 This repository contains two Python implementations for machine learning models:
 
-1. A **Multi-Layer Neural Network (MLP)** for multi-class classification on the Iris dataset.
-2. A simple **Perceptron** for binary classification on a subset of the Iris dataset.
+1. A simple **Perceptron** for binary classification on a subset of the Iris dataset.
+2. A **Multi-Layer Neural Network (MLP)** for multi-class classification on the Iris dataset.
 
 Both scripts are written in Python and use popular libraries such as `numpy`, `scipy`, and `matplotlib`.
 
